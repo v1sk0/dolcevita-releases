@@ -1,13 +1,10 @@
 {
-  "version": "3.36",
-  "versionCode": 63,
+  "version": "3.37",
+  "versionCode": 64,
   "releaseDate": "2026-01-08",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.36.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.37.apk",
   "changelog": [
-    "Vracen prikaz verzije u headeru",
-    "Font 20% veci na meniju",
-    "Menu: Evidencije pazara, Nedeljni raspored, Prijem robe",
-    "Auto-update preko GitHub-a"
+    "Test auto-update sistema"
   ],
   "minVersion": "3.0"
 }
