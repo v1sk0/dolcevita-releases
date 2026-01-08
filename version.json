@@ -1,11 +1,12 @@
 {
-  "version": "3.44",
-  "versionCode": 71,
+  "version": "3.45",
+  "versionCode": 72,
   "releaseDate": "2026-01-08",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.44.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.45.apk",
   "changelog": [
-    "Prelazak na GitHub API (bez CDN keširanja)",
-    "Fix: Omogucen fetch iz file:// protokola"
+    "Moderan glassmorphism dizajn meni ikonica",
+    "Vece ikone sa gradient bojama i senkom",
+    "Boldovan tekst labela"
   ],
   "minVersion": "3.0"
 }
