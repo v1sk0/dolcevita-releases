@@ -1,11 +1,11 @@
 {
-  "version": "3.43",
-  "versionCode": 70,
+  "version": "3.44",
+  "versionCode": 71,
   "releaseDate": "2026-01-08",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.43.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.44.apk",
   "changelog": [
-    "Fix: Omogucen fetch iz file:// protokola (auto-update)",
-    "Uklonjen debug mode"
+    "Prelazak na GitHub API (bez CDN keširanja)",
+    "Fix: Omogucen fetch iz file:// protokola"
   ],
   "minVersion": "3.0"
 }
