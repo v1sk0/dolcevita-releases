@@ -4,7 +4,8 @@
   "releaseDate": "2026-01-08",
   "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.37.apk",
   "changelog": [
-    "Test auto-update sistema"
+    "Auto-update provera pri svakom pokretanju aplikacije",
+    "Poboljsana stabilnost"
   ],
   "minVersion": "3.0"
 }
