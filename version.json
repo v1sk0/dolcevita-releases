@@ -1,12 +1,12 @@
 {
-  "version": "3.48",
-  "versionCode": 75,
+  "version": "3.49",
+  "versionCode": 76,
   "releaseDate": "2026-01-08",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.48.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.49.apk",
   "changelog": [
-    "Popis scanner identican kao Prijem (beli okvir, dinamicke dimenzije)",
-    "Debug: prikaz server response za Popis",
-    "Glassmorphism meni dizajn"
+    "Popis: dodato Delete dugme za brisanje popisa",
+    "Popis API: svi endpointi koriste Bearer token auth",
+    "Popis: kontrola pristupa (user vidi samo svoje, admin sve)"
   ],
   "minVersion": "3.0"
 }
