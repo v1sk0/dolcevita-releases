@@ -1,13 +1,13 @@
 {
-  "version": "3.34",
-  "versionCode": 53,
+  "version": "3.35",
+  "versionCode": 62,
   "releaseDate": "2026-01-08",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.34.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.35.apk",
   "changelog": [
-    "Ispravljen auto-update - koristi GitHub direktno",
-    "Popis inventara modul",
-    "Barcode scanner za popis",
-    "Offline podrska"
+    "Ispravljeno verzionisanje (versionCode 62)",
+    "Auto-update koristi GitHub direktno",
+    "Popis inventara modul komplet",
+    "Barcode scanner za popis"
   ],
   "minVersion": "3.0"
 }
