@@ -1,9 +1,10 @@
 {
-  "version": "3.47",
-  "versionCode": 74,
+  "version": "3.48",
+  "versionCode": 75,
   "releaseDate": "2026-01-08",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.47.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.48.apk",
   "changelog": [
+    "Popis scanner identican kao Prijem (beli okvir, dinamicke dimenzije)",
     "Debug: prikaz server response za Popis",
     "Glassmorphism meni dizajn"
   ],

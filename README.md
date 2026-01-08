@@ -2,11 +2,21 @@
 
 APK releases for Dolce Vita Mobile app.
 
-## Latest Version: v3.45
+## Latest Version: v3.48
 
-Download: [DolceVitaMobile-v3.45.apk](https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.45.apk)
+Download: [DolceVitaMobile-v3.48.apk](https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.48.apk)
 
 ### Changelog
+
+**v3.48** (2026-01-08)
+- Popis scanner identican kao Prijem (beli okvir, dinamicke dimenzije)
+- Debug: prikaz server response za Popis greske
+
+**v3.47** (2026-01-08)
+- Debug: prikaz tacne greske za Popis API
+
+**v3.46** (2026-01-08)
+- Debug: prikaz tacne greske kod update check-a
 
 **v3.45** (2026-01-08)
 - Moderan glassmorphism dizajn meni ikonica
@@ -20,12 +30,8 @@ Download: [DolceVitaMobile-v3.45.apk](https://raw.githubusercontent.com/v1sk0/do
 **v3.43** (2026-01-08)
 - Fix AllowUniversalAccessFromFileURLs
 
-**v3.42** (2026-01-08)
-- Debug verzija za testiranje update sistema
-
 **v3.39** (2026-01-08)
 - Fix: Verzija se dinamicki prikazuje iz APP_VERSION
-- Fix: Cache-busting za version.json
 - Auto-update provera pri svakom pokretanju
 
 **v3.32** (2026-01-08)
