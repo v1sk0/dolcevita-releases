@@ -1,12 +1,10 @@
 {
-  "version": "3.39",
-  "versionCode": 66,
+  "version": "3.40",
+  "versionCode": 67,
   "releaseDate": "2026-01-08",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.39.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.40.apk",
   "changelog": [
-    "Fix: Verzija se sada dinamicki prikazuje iz APP_VERSION",
-    "Fix: Cache-busting za version.json",
-    "Auto-update provera pri svakom pokretanju"
+    "Test verzija za proveru auto-update sistema"
   ],
   "minVersion": "3.0"
 }
