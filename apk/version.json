@@ -1,10 +1,11 @@
 {
-  "version": "3.56",
-  "versionCode": 83,
+  "version": "3.57",
+  "versionCode": 84,
   "releaseDate": "2026-01-11",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.56.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.57.apk",
   "changelog": [
-    "Fix: dodavanje popis stavki sada radi"
+    "Fix: završen popis sada prikazuje sve stavke",
+    "Fix: dugme za količinu više ne ostaje grayed out"
   ],
   "minVersion": "3.0"
 }
