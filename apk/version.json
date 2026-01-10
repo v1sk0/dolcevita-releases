@@ -1,10 +1,11 @@
 {
-  "version": "3.58",
-  "versionCode": 85,
+  "version": "3.59",
+  "versionCode": 86,
   "releaseDate": "2026-01-11",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.58.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.59.apk",
   "changelog": [
     "Dodato: Dugmad Izmeni i Obriši na detaljima popisa",
+    "Fix: Back dugme sada radi ispravno",
     "Fix: završen popis sada prikazuje sve stavke"
   ],
   "minVersion": "3.0"
