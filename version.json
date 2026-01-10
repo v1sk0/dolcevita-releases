@@ -1,12 +1,13 @@
 {
-  "version": "3.49",
-  "versionCode": 76,
-  "releaseDate": "2026-01-08",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.49.apk",
+  "version": "3.50",
+  "versionCode": 77,
+  "releaseDate": "2026-01-10",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.50.apk",
   "changelog": [
-    "Popis: dodato Delete dugme za brisanje popisa",
-    "Popis API: svi endpointi koriste Bearer token auth",
-    "Popis: kontrola pristupa (user vidi samo svoje, admin sve)"
+    "Popis: novi tipovi - SLOBODAN, VODJEN, PARCIJALNI (uklonjen DNEVNI)",
+    "Popis: vođeni popis sa kategorijama artikala",
+    "Popis: skriven tajmer, statistika na kraju (trajanje, broj stavki)",
+    "Popis: nova tabela PopisKategorija za definisanje grupa artikala"
   ],
   "minVersion": "3.0"
 }
