@@ -1,13 +1,12 @@
 {
-  "version": "3.50",
-  "versionCode": 77,
+  "version": "3.51",
+  "versionCode": 78,
   "releaseDate": "2026-01-10",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.50.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.51.apk",
   "changelog": [
-    "Popis: novi tipovi - SLOBODAN, VODJEN, PARCIJALNI (uklonjen DNEVNI)",
-    "Popis: vođeni popis sa kategorijama artikala",
-    "Popis: skriven tajmer, statistika na kraju (trajanje, broj stavki)",
-    "Popis: nova tabela PopisKategorija za definisanje grupa artikala"
+    "Popis: zvučni signali - beep pri skeniranju, uspeh/greška pri dodavanju",
+    "Popis: prikazuje barcode u notifikaciji kad nije pronađen",
+    "Popis: novi tipovi - SLOBODAN, VODJEN, PARCIJALNI"
   ],
   "minVersion": "3.0"
 }
