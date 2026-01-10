@@ -1,0 +1,11 @@
+{
+  "version": "3.53",
+  "versionCode": 80,
+  "releaseDate": "2026-01-10",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.53.apk",
+  "changelog": [
+    "Fix: login sada radi korektno",
+    "Fix: ispravljena inicijalizacija aplikacije"
+  ],
+  "minVersion": "3.0"
+}
