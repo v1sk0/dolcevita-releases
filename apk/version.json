@@ -1,10 +1,10 @@
 {
-  "version": "3.55",
-  "versionCode": 82,
+  "version": "3.56",
+  "versionCode": 83,
   "releaseDate": "2026-01-11",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.55.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.56.apk",
   "changelog": [
-    "Fix: auto-update sada radi korektno"
+    "Fix: dodavanje popis stavki sada radi"
   ],
   "minVersion": "3.0"
 }
