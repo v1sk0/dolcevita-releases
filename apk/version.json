@@ -1,11 +1,11 @@
 {
-  "version": "3.53",
-  "versionCode": 80,
-  "releaseDate": "2026-01-10",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.53.apk",
+  "version": "3.54",
+  "versionCode": 81,
+  "releaseDate": "2026-01-11",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.54.apk",
   "changelog": [
-    "Fix: login sada radi korektno",
-    "Fix: ispravljena inicijalizacija aplikacije"
+    "Popis: skener pauzira dok je otvoren unos količine",
+    "Popis: isti beep za skeniranje i dodavanje"
   ],
   "minVersion": "3.0"
 }
