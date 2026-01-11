@@ -1,11 +1,11 @@
 {
-  "version": "3.68",
-  "versionCode": 95,
+  "version": "3.69",
+  "versionCode": 96,
   "releaseDate": "2026-01-11",
-  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.68.apk?raw=true",
+  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.69.apk?raw=true",
   "changelog": [
-    "Fix: Agregacija istih artikala u tabeli popisa",
-    "Fix: Isti proizvod se objedinjuje u jednu stavku"
+    "Fix: Delete dugme za admina sada radi ispravno",
+    "Fix: Poboljsano rukovanje greskama pri brisanju popisa"
   ],
   "minVersion": "3.0"
 }
