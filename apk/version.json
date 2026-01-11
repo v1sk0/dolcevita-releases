@@ -1,13 +1,13 @@
 {
-  "version": "3.64",
-  "versionCode": 91,
+  "version": "3.65",
+  "versionCode": 92,
   "releaseDate": "2026-01-11",
-  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.64.apk?raw=true",
+  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.65.apk?raw=true",
   "changelog": [
-    "Add: Dugme Nastavi za nastavak popisa",
-    "Add: Prikaz trajanja popisa",
-    "Add: Datum sa imenom dana (Nedelja 11.01.2026)",
-    "Fix: Vidljivost dugmadi Nastavi/Obriši"
+    "UI: Novi dizajn liste popisa - grid prikaz",
+    "Add: Dugme Nastavi popis sa ikonom",
+    "Add: Pregledaj dugme za završene popise",
+    "Fix: Centriran i modernizovan prikaz"
   ],
   "minVersion": "3.0"
 }
