@@ -1,11 +1,10 @@
 {
-  "version": "3.61",
-  "versionCode": 88,
+  "version": "3.62",
+  "versionCode": 89,
   "releaseDate": "2026-01-11",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.61.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.62.apk",
   "changelog": [
-    "Fix: Brisanje popisa sada radi (OPTIONS preflight)",
-    "Fix: Broj stavki prikazuje unikatne artikle"
+    "Fix: Brisanje popisa sada radi"
   ],
   "minVersion": "3.0"
 }
