@@ -1,11 +1,11 @@
 {
-  "version": "3.69",
-  "versionCode": 96,
+  "version": "3.70",
+  "versionCode": 97,
   "releaseDate": "2026-01-11",
-  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.69.apk?raw=true",
+  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.70.apk?raw=true",
   "changelog": [
-    "Fix: Delete dugme za admina sada radi ispravno",
-    "Fix: Poboljsano rukovanje greskama pri brisanju popisa"
+    "Fix: Ispravljena JavaScript greska - dupla deklaracija varijable",
+    "Fix: Login sada radi ispravno"
   ],
   "minVersion": "3.0"
 }
