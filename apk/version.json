@@ -1,13 +1,11 @@
 {
-  "version": "3.66",
-  "versionCode": 93,
+  "version": "3.67",
+  "versionCode": 94,
   "releaseDate": "2026-01-11",
-  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.66.apk?raw=true",
+  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.67.apk?raw=true",
   "changelog": [
-    "UI: Collapsible prikaz popisa - klikni za detalje",
-    "Fix: Nastavi dugme vidljivo dok nije zaključan (4h)",
-    "Fix: Pregledaj dugme za zaključane popise",
-    "Fix: Bolji error handling za brisanje"
+    "Fix: Nastavi popis ucitava postojece stavke",
+    "Fix: Ispravljen undefined error pri nastavku popisa"
   ],
   "minVersion": "3.0"
 }
