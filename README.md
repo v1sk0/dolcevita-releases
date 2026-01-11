@@ -2,13 +2,13 @@
 
 APK releases for Dolce Vita Mobile app.
 
-## Latest Version: v3.70
+## Latest Version: v3.7
 
-**Download:** [DolceVitaMobile-v3.70.apk](https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.70.apk?raw=true)
+**Download:** [DolceVitaMobile-v3.7.apk](https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.7.apk?raw=true)
 
 ## Changelog
 
-**v3.70** (2026-01-11)
+**v3.7** (2026-01-11)
 - Fix: Ispravljena JavaScript greška - dupla deklaracija varijable
 - Fix: Login sada radi ispravno
 
@@ -76,7 +76,7 @@ Podaci se čitaju iz `apk/version.json` fajla preko GitHub API-ja.
 ```
 dolcevita-releases/
 ├── apk/
-│   ├── DolceVitaMobile-v3.70.apk   # Najnoviji APK
+│   ├── DolceVitaMobile-v3.7.apk   # Najnoviji APK
 │   ├── DolceVitaMobile-v3.69.apk   # Prethodne verzije...
 │   └── version.json                 # Verzija info (APP ČITA OVAJ FAJL)
 ├── README.md

@@ -1,8 +1,8 @@
 {
-  "version": "3.70",
+  "version": "3.7",
   "versionCode": 97,
   "releaseDate": "2026-01-11",
-  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.70.apk?raw=true",
+  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.7.apk?raw=true",
   "changelog": [
     "Fix: Ispravljena JavaScript greska - dupla deklaracija varijable",
     "Fix: Login sada radi ispravno"
