@@ -2,7 +2,7 @@
   "version": "3.64",
   "versionCode": 91,
   "releaseDate": "2026-01-11",
-  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/releases/download/v3.64/DolceVitaMobile-v3.64.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.64.apk",
   "changelog": [
     "Add: Dugme Nastavi za nastavak popisa",
     "Add: Prikaz trajanja popisa",
