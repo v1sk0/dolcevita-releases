@@ -1,12 +1,12 @@
 {
-  "version": "3.52",
-  "versionCode": 79,
-  "releaseDate": "2026-01-10",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.52.apk",
+  "version": "3.63",
+  "versionCode": 90,
+  "releaseDate": "2026-01-11",
+  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.63.apk",
   "changelog": [
-    "Popis: fix tabela stavki - sada se popunjava korektno",
-    "Popis: tiši zvuk za uspešno dodavanje",
-    "Popis: podešena jačina zvuka"
+    "Add: Vremenska zaključanost popisa (4 sata)",
+    "Add: Admin može otključati zaključan popis",
+    "Fix: Skriveno dugme Obriši za završene popise"
   ],
   "minVersion": "3.0"
 }
