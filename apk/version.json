@@ -4,9 +4,10 @@
   "releaseDate": "2026-01-11",
   "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/releases/download/v3.63/DolceVitaMobile-v3.63.apk",
   "changelog": [
-    "Add: Vremenska zaključanost popisa (4 sata)",
-    "Add: Admin može otključati zaključan popis",
-    "Fix: Skriveno dugme Obriši za završene popise"
+    "Add: Dugme Nastavi za nastavak popisa",
+    "Add: Prikaz trajanja popisa",
+    "Add: Datum sa imenom dana (Nedelja 11.01.2026)",
+    "Fix: Vidljivost dugmadi Nastavi/Obriši"
   ],
   "minVersion": "3.0"
 }
