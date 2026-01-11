@@ -2,7 +2,7 @@
   "version": "3.63",
   "versionCode": 90,
   "releaseDate": "2026-01-11",
-  "downloadUrl": "https://raw.githubusercontent.com/v1sk0/dolcevita-releases/main/apk/DolceVitaMobile-v3.63.apk",
+  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/releases/download/v3.63/DolceVitaMobile-v3.63.apk",
   "changelog": [
     "Add: Vremenska zaključanost popisa (4 sata)",
     "Add: Admin može otključati zaključan popis",
