@@ -1,12 +1,10 @@
 {
-  "version": "3.74",
-  "versionCode": 101,
+  "version": "3.75",
+  "versionCode": 102,
   "releaseDate": "2026-01-15",
-  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.74.apk?raw=true",
+  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.75.apk?raw=true",
   "changelog": [
-    "Popis: Podrska za nepoznate artikle",
-    "Popis: Skener za artikal unutar box-a",
-    "Popis: Kreiranje novog artikla iz box modala"
+    "Fix: Poruka o zaključanom popisu se više ne gomila"
   ],
   "minVersion": "3.0"
 }
