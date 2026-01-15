@@ -2,11 +2,17 @@
 
 APK releases for Dolce Vita Mobile app.
 
-## Latest Version: v3.7
+## Latest Version: v3.74
 
-**Download:** [DolceVitaMobile-v3.7.apk](https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.7.apk?raw=true)
+**Download:** [DolceVitaMobile-v3.74.apk](https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.74.apk?raw=true)
 
 ## Changelog
+
+**v3.74** (2026-01-15)
+- Popis: Podrška za nepoznate artikle u popis modulu
+- Popis: Skener za artikal unutar box-a
+- Popis: Kreiranje novog artikla direktno iz box modala
+- Popis: Dugme Otkaži za unknown barcode modal
 
 **v3.7** (2026-01-11)
 - Fix: Ispravljena JavaScript greška - dupla deklaracija varijable

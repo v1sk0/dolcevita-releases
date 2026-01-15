@@ -1,10 +1,12 @@
 {
-  "version": "3.71",
-  "versionCode": 98,
-  "releaseDate": "2026-01-11",
-  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.71.apk?raw=true",
+  "version": "3.74",
+  "versionCode": 101,
+  "releaseDate": "2026-01-15",
+  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.74.apk?raw=true",
   "changelog": [
-    "Fix: Delete error - response body stream already read"
+    "Popis: Podrska za nepoznate artikle",
+    "Popis: Skener za artikal unutar box-a",
+    "Popis: Kreiranje novog artikla iz box modala"
   ],
   "minVersion": "3.0"
 }
