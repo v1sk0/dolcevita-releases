@@ -1,10 +1,10 @@
 {
-  "version": "3.76",
-  "versionCode": 103,
+  "version": "3.77",
+  "versionCode": 104,
   "releaseDate": "2026-01-15",
-  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.76.apk?raw=true",
+  "downloadUrl": "https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.77.apk?raw=true",
   "changelog": [
-    "Automatska promena statusa popisa u ZAKLJUCAN posle 4 sata neaktivnosti"
+    "Fix: Prikaz ZAKLJUCAN statusa u listi prethodnih popisa"
   ],
   "minVersion": "3.0"
 }
