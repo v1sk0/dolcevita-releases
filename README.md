@@ -2,11 +2,14 @@
 
 APK releases for Dolce Vita Mobile app.
 
-## Latest Version: v3.75
+## Latest Version: v3.76
 
-**Download:** [DolceVitaMobile-v3.75.apk](https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.75.apk?raw=true)
+**Download:** [DolceVitaMobile-v3.76.apk](https://github.com/v1sk0/dolcevita-releases/blob/main/apk/DolceVitaMobile-v3.76.apk?raw=true)
 
 ## Changelog
+
+**v3.76** (2026-01-15)
+- Automatska promena statusa popisa u ZAKLJUCAN posle 4 sata neaktivnosti
 
 **v3.75** (2026-01-15)
 - Fix: Poruka o zaključanom popisu se više ne gomila
